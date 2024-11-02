@@ -1,4 +1,3 @@
-
 import cv2
 from sketchpy import canvas
 
